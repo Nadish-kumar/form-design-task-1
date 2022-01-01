@@ -1,0 +1,14 @@
+.checked{
+    color: orange;
+  }
+  #mycomments{
+    width: 900px;
+    height: 150px;
+    border-radius: 20px;
+  }
+  #mycomments{
+    border: 2px solid black;
+  }
+  tr:nth-child(even) {
+    background-color:gray;
+  }
